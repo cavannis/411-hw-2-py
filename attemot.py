@@ -1,8 +1,8 @@
 import random
 import time
 import matplotlib.pyplot as plt
-from merge_sort import merge_sort
-from insertion_sort import insertion_sort
+from mergesort import merge_sort
+from insertsort import insertion_sort
 
 # Generate lists of integers of increasing size
 sizes = [10, 20, 30, 40, 50, 75, 100, 200, 300, 400, 500, 750, 1000]
